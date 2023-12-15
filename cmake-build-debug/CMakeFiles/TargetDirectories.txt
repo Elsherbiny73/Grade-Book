@@ -1,0 +1,3 @@
+/run/media/youssefelsherbiny/youssef/project 2 (Gradebook)/cmake-build-debug/CMakeFiles/project_2__Gradebook_.dir
+/run/media/youssefelsherbiny/youssef/project 2 (Gradebook)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/run/media/youssefelsherbiny/youssef/project 2 (Gradebook)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
